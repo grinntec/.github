@@ -10,7 +10,7 @@ Automation has long played a role in my technical approach, whether with PowerSh
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=neilgri&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=grinntec&style=flat-square&color=blue" alt=""/>
 
 <h1>
   Welcome
