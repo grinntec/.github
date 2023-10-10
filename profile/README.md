@@ -18,6 +18,6 @@ I am an influential people leader and mentor and an effective independent worker
 
 Automation has long played a role in my technical approach, whether with PowerShell scripting in Exchange or Active Directory. My current focus is IaC in cloud builds, and I am experienced in TerraForm for both Azure and AWS. I constantly learn new methods to improve my code, which motivates me.
 
-- 💻 Currently, I'm working as a lead Infrastructure Architect utilizing my expertise in Azure, AWS, and technical project management.
-- ✍️ I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices
-- You can see my website here [![grinntec](https://img.shields.io/badge/grinntec-blue)](https://grinntec.net)
+- Currently, I'm working as a lead Infrastructure Architect utilizing my expertise in Azure, AWS, and technical project management.
+- I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices
+- You can see my website here [![grinntec](https://img.shields.io/badge/grinntec-blue)](https://www.grinntec.net)
